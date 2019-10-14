@@ -1,0 +1,1 @@
+web: python n_vezes_primos.py
